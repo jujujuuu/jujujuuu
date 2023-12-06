@@ -1,7 +1,6 @@
 - 👋 안녕하세요 저는 안지우 입니다
-  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ 저의 취미는 동물영상보기,드라마보기,영화보기 입니다
+- 
 
 <!---
 jujujuuu/jujujuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
